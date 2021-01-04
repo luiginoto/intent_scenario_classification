@@ -1,4 +1,4 @@
-# Intent and Scenario classification
+# Intent and Scenario Classification
 
 The purpose of this project is to train an intent and scenario classifier that might be useful to support a chatbot. Intent and scenario lassification is an important component of Natural Language Understanding (NLU) systems in any chatbot platform.
 As when you have an assistant and you tell him/her to book you a taxi, and your assistant knows how to respond for that query of yours because he/she has brain that trained for this, a chatbot providing assistance for a specific website has to be trained to respond for a particular query. To make a chatbot answer properly according to the users' question intent and scenario classifiers are developed and used.
