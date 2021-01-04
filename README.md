@@ -6,5 +6,3 @@ As when you have an assistant and you tell him/her to book you a taxi, and your 
 The dataset used has been provided by [Open Search Network](https://www.opensearchnetwork.com) for an hackathon organized in collaboration with [Bocconi Students for Data Science](https://it.linkedin.com/company/bocconi-students-for-data-science), the organization I joined in order to enrich my competences in the field of Data Science and Machine Learning.
 
 The dataset consists of 14514 questions with two labels, one determining the intent of the user and the other determining the scenario of the question. It is not a large dataset, however it is very well designed and contains a lot of information.
-
-I plan to train two separate classifiers, an intent classifier and a scenario classifier.
